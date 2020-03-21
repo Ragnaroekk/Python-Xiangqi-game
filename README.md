@@ -1,7 +1,5 @@
 # Python-Xiangqi-game
 A basic board game similar to chess
-Author: Ray Franklin
-Date: 02/27/2020
 Description: A Xiangqi game in python
 It uses the pieces listed as Wikipedia describes their names.
 General, Advisor, Elephant, Horse, Chariot, Cannon, Soldier
